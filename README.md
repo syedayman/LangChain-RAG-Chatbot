@@ -5,7 +5,7 @@ A Retrieval-Augmented Generation (RAG) AI chatbot application built with LangCha
 
 ## Usage
 1. Clone repo
-2. Install dependencies using a virtual environment by running
+2. Install dependencies in a virtual environment by running
    ```
    python -m venv venv
    venv\Scripts\activate
