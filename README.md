@@ -4,7 +4,7 @@ A Retrieval-Augmented Generation (RAG) AI chatbot application built with LangCha
 ![image](https://github.com/user-attachments/assets/403ff0a7-ef6c-4d09-8cfc-98b7538d105b)
 
 ## Usage
-1. Clone the repository and navigate to the project directory
+1. Clone the repository with `https://github.com/syedayman/LangChain-RAG-Chatbot.git` and navigate to the project directory
 2. Install dependencies in a virtual environment by running
    ```
    python -m venv venv
